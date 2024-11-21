@@ -12,4 +12,5 @@ struct VideoGame {
     let platform: String
     let releaseYear: Int
     let coverImageName: String
+    let description: String
 }

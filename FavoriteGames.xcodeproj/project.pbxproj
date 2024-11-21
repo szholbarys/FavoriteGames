@@ -16,6 +16,7 @@
 		E8C7B8542CEF5E93007E9EA6 /* VideoGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8C7B8532CEF5E93007E9EA6 /* VideoGame.swift */; };
 		E8C7B8572CEF5EF1007E9EA6 /* GameTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8C7B8552CEF5EF1007E9EA6 /* GameTableViewCell.swift */; };
 		E8C7B8582CEF5EF1007E9EA6 /* GameTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = E8C7B8562CEF5EF1007E9EA6 /* GameTableViewCell.xib */; };
+		E8C7B85A2CEF76F9007E9EA6 /* GameDetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8C7B8592CEF76F9007E9EA6 /* GameDetailsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		E8C7B8532CEF5E93007E9EA6 /* VideoGame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoGame.swift; sourceTree = "<group>"; };
 		E8C7B8552CEF5EF1007E9EA6 /* GameTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameTableViewCell.swift; sourceTree = "<group>"; };
 		E8C7B8562CEF5EF1007E9EA6 /* GameTableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = GameTableViewCell.xib; sourceTree = "<group>"; };
+		E8C7B8592CEF76F9007E9EA6 /* GameDetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameDetailsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +74,7 @@
 				E8C7B8532CEF5E93007E9EA6 /* VideoGame.swift */,
 				E8C7B8552CEF5EF1007E9EA6 /* GameTableViewCell.swift */,
 				E8C7B8562CEF5EF1007E9EA6 /* GameTableViewCell.xib */,
+				E8C7B8592CEF76F9007E9EA6 /* GameDetailsViewController.swift */,
 			);
 			path = FavoriteGames;
 			sourceTree = "<group>";
@@ -149,6 +152,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E8C7B8572CEF5EF1007E9EA6 /* GameTableViewCell.swift in Sources */,
+				E8C7B85A2CEF76F9007E9EA6 /* GameDetailsViewController.swift in Sources */,
 				E8C7B8442CEF5E31007E9EA6 /* ViewController.swift in Sources */,
 				E8C7B8402CEF5E31007E9EA6 /* AppDelegate.swift in Sources */,
 				E8C7B8422CEF5E31007E9EA6 /* SceneDelegate.swift in Sources */,
